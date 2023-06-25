@@ -6,6 +6,7 @@ QA Internship Assignment - writing automation script for the login page for doin
 
 ### Application URL
 - The web application can be accessed at: [https://sakshingp.github.io/assignment/login.html](https://sakshingp.github.io/assignment/login.html)
+- Repository link : https://github.com/dharmendra2802/qawingify
 
 ## Test Scenarios
 
