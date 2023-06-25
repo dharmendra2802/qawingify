@@ -21,7 +21,7 @@ public class RunningTest {
 
     // Setting Up extentReport
     public void extentSetup() {
-        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("docs/TestReport.html");
+        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("TestReport.html");
         extentReports = new ExtentReports();
         extentReports.attachReporter(sparkReporter);
     }
